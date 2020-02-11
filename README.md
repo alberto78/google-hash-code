@@ -1,2 +1,2 @@
 # google-hash-code
-Google Hash Code
+Google Hash Code practices
