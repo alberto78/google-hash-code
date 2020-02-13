@@ -1,7 +1,7 @@
-# hashcode-pizza
-Approach to the Google Hash Code practice example
+# 2019
+Google Hash Code practice solution
 
-## Self calculated scores
+## Scores
 
 `$ node index.js a_example`  
 `Score: 15`  
